@@ -1,4 +1,4 @@
-**Project Subject: Teenager Mindset**
+<h1>Project Subject: Teenager Mindset</h1>
 
 Our project is about helping teenagers build a positive and healthy mindset.
 
