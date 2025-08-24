@@ -1,20 +1,20 @@
 <img width="200" height="200" alt="first" src="https://github.com/user-attachments/assets/efc093c2-5e18-455a-b8ed-96f64f35a02b" />
 
-# Project Subject\: Teenager Mindset
+# Project Subject: Teenager Mindset
 
 **Our project is about helping teenagers build a positive and healthy mindset.**
 
-**Target Audience\:**
+## Target Audience:
 
 Teenagers between 12 – 17 years old.
 
-**Project Info\:**
+## Project Info:
 
 We plan to create campaigns that raise awareness about mental well-being
 and guide teenagers to stay away from harmful habits like drugs and pornography.
 We want to share content that speaks their language and makes them feel supported.
 
-**Objectives\:**
+## Objectives:
 
 Encourage healthy habits that improve mental health.
 
