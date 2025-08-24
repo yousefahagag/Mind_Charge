@@ -16,5 +16,5 @@
 - Show the risks of harmful addictions in a simple and clear way.
 
 - Help teenagers grow their confidence and choose healthier alternatives.
-<br />  
+ 
 **We believe this project can truly make a difference by helping teenagers make better choices for a brighter future.**
