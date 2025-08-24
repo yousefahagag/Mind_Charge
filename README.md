@@ -4,6 +4,8 @@
 
 **Our project is about helping teenagers build a positive and healthy mindset.**
 
+---
+
 ## 🎯Target Audience:
 - Teenagers between 12 – 17 years old.
 
