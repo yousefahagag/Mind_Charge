@@ -1,4 +1,4 @@
-<img width="2000" height="2000" alt="first" src="https://github.com/user-attachments/assets/efc093c2-5e18-455a-b8ed-96f64f35a02b" />
+<img width="200" height="200" alt="first" src="https://github.com/user-attachments/assets/efc093c2-5e18-455a-b8ed-96f64f35a02b" />
 
 # Project Subject: Teenager Mindset
 
