@@ -1,6 +1,6 @@
 # Project Subject: Teenager Mindset
 
-Our project is about helping teenagers build a positive and healthy mindset.
+**Our project is about helping teenagers build a positive and healthy mindset.**
 
 ---
 
@@ -19,4 +19,4 @@ Our project is about helping teenagers build a positive and healthy mindset.
 
 ---
  
-✨We believe this project can truly make a difference by helping teenagers make better choices for a brighter future.
+**✨We believe this project can truly make a difference by helping teenagers make better choices for a brighter future.**
