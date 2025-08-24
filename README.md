@@ -10,9 +10,7 @@ Teenagers between 12 – 17 years old.
 
 ## Project Info:
 
-We plan to create campaigns that raise awareness about mental well-being
-and guide teenagers to stay away from harmful habits like drugs and pornography.
-We want to share content that speaks their language and makes them feel supported.
+We plan to create campaigns that raise awareness about mental well-being and guide teenagers to stay away from harmful habits like drugs and pornography. We want to share content that speaks their language and makes them feel supported.
 
 ## Objectives:
 
