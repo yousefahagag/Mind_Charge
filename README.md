@@ -1,8 +1,7 @@
 <img width="60" height="60" alt="first" src="https://github.com/user-attachments/assets/efc093c2-5e18-455a-b8ed-96f64f35a02b" />
 
 # Project Subject: Teenager Mindset
-
-
+<br />
 **Our project is about helping teenagers build a positive and healthy mindset.**
 
 ## Target Audience:
@@ -17,6 +16,5 @@
 - Show the risks of harmful addictions in a simple and clear way.
 
 - Help teenagers grow their confidence and choose healthier alternatives.
-  
-
+<br />  
 **We believe this project can truly make a difference by helping teenagers make better choices for a brighter future.**
