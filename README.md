@@ -3,7 +3,7 @@
 # Project Subject: Teenager Mindset
 <br />
 **Our project is about helping teenagers build a positive and healthy mindset.**
-
+<br />
 ## Target Audience:
 - Teenagers between 12 – 17 years old.
 
