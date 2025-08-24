@@ -1,6 +1,4 @@
-# Project Subject: Teenager Mindset
-
-<img width="80" height="80" alt="first" src="https://github.com/user-attachments/assets/efc093c2-5e18-455a-b8ed-96f64f35a02b" />
+# Project Subject: Teenager Mindset <img width="60" height="60" alt="first" src="https://github.com/user-attachments/assets/efc093c2-5e18-455a-b8ed-96f64f35a02b" />
 
 **Our project is about helping teenagers build a positive and healthy mindset.**
 
