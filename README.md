@@ -1,4 +1,4 @@
-#Project Subject: Teenager Mindset
+# Project Subject: Teenager Mindset
 
 **Our project is about helping teenagers build a positive and healthy mindset.**
 
